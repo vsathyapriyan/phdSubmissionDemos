@@ -17,7 +17,7 @@ The demos consist of monoaural left signals for different noise and SNRs, headph
 3. **LP_Y_Z.wav** - LP estimate using the only the remote microphone signal.
 4. **Prop_X_Y_Z.wav** - Proposed method estimate, using HA and remote microphone signals.
 
-**Note: All the remote microphone signals in these examples are at an SNR = 30 dB iin WGN.**
+**Note: All the remote microphone signals in these examples are at an SNR = 30 dB in WGN.**
 
 
 ### References
