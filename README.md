@@ -1,2 +1,2 @@
-# phdSubmissionDemos
-This repository is created to store audio demos submitted for papers
+# AUDIO DEMOS
+This repository contains the audio demos for conference submissions
